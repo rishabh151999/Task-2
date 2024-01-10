@@ -92,9 +92,6 @@ If the installation was successful, you should be able to run the following comm
 !["show_name"](./public/assets/images/responsive%20work.png)
 !["show_name"](./public/assets/images/work_page.png)
 
-### Team
-!["show_name"](./public/assets/images/Team_page.png)
-!["show_name"](./public/assets/images/responsive%20team.png)
 
 
 ### Contact Us
