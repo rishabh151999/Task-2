@@ -80,12 +80,10 @@ If the installation was successful, you should be able to run the following comm
 ## Responsive Frontend Using HTML, CSS, JS , Bootstrap
 
 ### Home Page
-!["show_name"](./public/assets/images/home_responsive.png)
-!["show_name"](./public/assets/images/home%20with%20username.png)
+!["show_name"](./public/assets/images/contact_with%20_info.jpg)
+!["show_name"](./public/assets/images/contact_with%20_info.jpg)
 
-### Services
-!["show_name"](./public/assets/images/services_page.png)
-!["show_name"](./public/assets/images/services_responsive.png)
+
 
 
 ### Our Work Page
