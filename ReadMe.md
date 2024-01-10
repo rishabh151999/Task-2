@@ -90,7 +90,6 @@ If the installation was successful, you should be able to run the following comm
 
 ### Our Work Page
 !["show_name"](./public/assets/images/responsive%20work.png)
-!["show_name"](./public/assets/images/work_page.png)
 
 
 
