@@ -74,7 +74,7 @@ If the installation was successful, you should be able to run the following comm
 ## Flash Messages for Errors and Warnings While Login/Register.
 - Flash messages are implemented to inform user about wrong password, User Already Exist etc.
 
-!["show_name"](./public/assets/images/contact_with_flash.png)
+!["show_name"](./public/assets/images/contact_with%20_info.jpg)
 
 
 ## Responsive Frontend Using HTML, CSS, JS , Bootstrap
