@@ -99,7 +99,7 @@ If the installation was successful, you should be able to run the following comm
 ## Contact Us form Stores data in Contact-form Collection in Mongo DB.
 - Messages, contact number, email , name are store in Databse and user is given a success message on completion.
 
-!["show_name"](./public/assets/images/Contact_message_inDB.png)
+!["show_name"](./public/assets/images/Contact_message_inDB.jpg)
 
 
 
